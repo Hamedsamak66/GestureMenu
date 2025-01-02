@@ -19,7 +19,7 @@ How to Run
 Clone the Repository:
 
 bash
-git clone https://github.com/yourusername/GestureMenu.git
+git clone https://github.com/Hamedsamak66/GestureMenu.git
 cd GestureMenu
 Run the Script:
 
